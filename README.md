@@ -5,6 +5,6 @@ Ammit - сервіс для цікавих матеріалів, створен�
 - Канал у [Viber](https://invite.viber.com/?g2=AQArAOQQXqLSCU%2F5jznPL6rzeaD4Acss%2FVWiwuEbfn%2FjQ6eOIrPDRYx6pAM3e%2FAH), 17.10.22
 - Канал у [Telegram](https://t.me/ammit1), 12.01.23
 - Застосунок [Ammmit](https://bppot.weblium.site/zavantazhiti-dodatok), 26.04.23
-- [Сайт](https://bppot.weblium.site)
+- [Сайт](https://bppot.weblium.site), 08.05.23
 
 Застосунок не підтримується.
